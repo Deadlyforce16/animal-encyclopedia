@@ -16,7 +16,7 @@ export default function HomePage() {
         <h2>How to use this web application?</h2>
         <ul>
           <li>
-            You can also add your own animals to the database by going to the Animals page and clicking the <b>&quot;Add New Animal&quot;</b> button. 
+            You can add your own animals to the database by going to the Animals page and clicking the <b>&quot;Add New Animal&quot;</b> button. 
             Additionally, you can also search for animals by their name, scientific name, taxonomy and location. And you can also sort them by their name, scientific name, taxonomy and location as well.
             Accordingly you can edit or delete your own animals by clicking the <b>&quot;Edit&quot;</b> or <b>&quot;Delete&quot;</b> button.
           </li>
@@ -32,7 +32,7 @@ export default function HomePage() {
         <p>
           <b>NOTE: </b>
           If you add a comment and then delete the user or animal associated with it, the comment will be deleted accordingly.
-          And you can also not add a picture to your user or animal profile because there is a default picture for each user and animal.
+          And you can also choose to not add a picture to your user or animal profile because there is a default picture for the user and animal profile.
         </p>
       </div>
     </div>
