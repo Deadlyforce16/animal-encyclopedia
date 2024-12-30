@@ -159,7 +159,6 @@ h1 {
   background-color: var(--dark-green);
 }
 
-/* Add a nice loading spinner */
 .loading-spinner {
   width: 50px;
   height: 50px;
@@ -175,7 +174,6 @@ h1 {
   100% { transform: rotate(360deg); }
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
   .main-nav ul {
     flex-direction: column;
@@ -258,7 +256,6 @@ h1 {
   color: white;
 }
 
-/* Add or update these styles */
 .modal-overlay {
   position: fixed;
   top: 0;
@@ -322,14 +319,12 @@ h1 {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* Optional: Add a plus icon */
 .add-button::before {
   content: "+";
   font-size: 1.2em;
   font-weight: bold;
 }
 
-/* Add these to your existing CSS */
 .profile-image {
   width: 100px;
   height: 100px;
@@ -435,7 +430,6 @@ h1 {
   opacity: 0.8;
 }
 
-/* If you have a comment input */
 .comment-input {
   width: 100%;
   min-height: 100px;
@@ -637,7 +631,6 @@ h1 {
   gap: 0.5rem;
 }
 
-/* Update modal styles */
 .detail-modal {
   background: white;
   padding: 0;
@@ -809,7 +802,6 @@ h1 {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
-/* Fix for comment card layout */
 .comment-card {
   display: flex;
   flex-direction: column;
@@ -837,7 +829,6 @@ h1 {
   margin-top: 1rem;
 }
 
-/* Comments page specific styles */
 .comment-header {
   display: flex;
   justify-content: space-between;

@@ -40,7 +40,7 @@ export default function AnimalForm({ animal, onSubmit }: AnimalFormProps) {
     const file = e.target.files?.[0];
     if (file) {
       try {
-        // Convert file to base64
+        // This converts files to base64
         const base64 = await new Promise<string>((resolve) => {
           const reader = new FileReader();
           reader.onloadend = () => {

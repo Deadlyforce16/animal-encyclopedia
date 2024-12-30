@@ -1,6 +1,6 @@
 # Animal Encyclopedia
 
-This is a Internet Programming web applicaiton project I made using JSON Server as the backend and Next.js as the frontend.
+This is a Internet Programming web applicaiton project I made in Visual Studio Code using JSON Server as the backend and Next.js as the frontend.
 
 ## Features
 
@@ -13,7 +13,7 @@ descriptions
 - Responsive design
 - Add, Edit or Delete animals, users and comments
 
-## Setup Instructions
+## Setup Instructions(I used the Git Bash terminal for this project)
 
 1. Clone or download the repository:
 ```bash
