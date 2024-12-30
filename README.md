@@ -15,7 +15,7 @@ This is a Internet Programming web applicaiton project I made using JSON Server 
 
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/yourusername/animal-encyclopedia.git
+git clone https://github.com/Deadlyforce16/animal-encyclopedia.git
 cd animal-encyclopedia
 ```
 
