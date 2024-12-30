@@ -5,11 +5,13 @@ This is a Internet Programming web applicaiton project I made using JSON Server 
 ## Features
 
 - Browse detailed information about various animal species
-- Learn about scientific names, taxonomy, locations, characteristics and descriptions
+- Learn about animals including scientific names, taxonomy, locations, characteristics and 
+descriptions
 - User management system
-- Comment system for sharing knowledge and experiences
+- Comment system for sharing knowledge,experiences and thoughts
 - Search and sort functionality
-- Responsive design for all devices
+- Responsive design
+- Add, Edit or Delete animals, users and comments
 
 ## Setup Instructions
 
