@@ -1,6 +1,6 @@
 # Animal Encyclopedia
 
-A web application for exploring and managing information about various animal species. Built with Next.js and JSON Server as part of an Internet Programming course project.
+This is a Internet Programming web applicaiton project I made using JSON Server as the backend and Next.js as the frontend.
 
 ## Features
 
@@ -11,21 +11,30 @@ A web application for exploring and managing information about various animal sp
 - Search and sort functionality
 - Responsive design for all devices
 
-## Getting Started
+## Setup Instructions
 
-First, start the JSON Server:
+1. Clone or download the repository:
+```bash
+git clone https://github.com/yourusername/animal-encyclopedia.git
+cd animal-encyclopedia
+```
 
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. First, start the JSON Server (this runs the backend on port 3001):
 ```bash
 npm run server
 ```
 
-Then, in a separate terminal, run the development server:
-
+4. Then, in a separate terminal, run the development server:
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Technologies Used
 
