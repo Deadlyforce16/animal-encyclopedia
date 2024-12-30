@@ -43,7 +43,7 @@ npm run dev
 - Next.js
 - JSON Server
 - HTML
-- Tailwind CSS
+- CSS
 - TypeScript
 - JavaScript
 
