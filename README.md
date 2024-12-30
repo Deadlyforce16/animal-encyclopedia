@@ -38,11 +38,11 @@ npm run dev
 
 ## Technologies Used
 
-- Next.js 14
-- TypeScript
+- Next.js
 - JSON Server
 - HTML
 - Tailwind CSS
+- TypeScript
 - JavaScript
 
 ## Author
