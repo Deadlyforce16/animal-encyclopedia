@@ -11,7 +11,7 @@ descriptions
 - Comment system for sharing knowledge,experiences and thoughts
 - Search and sort functionality
 - Responsive design
-- Add, Edit or Delete animals, users and comments
+- Add, edit or delete animals, users and comments
 
 ## Setup Instructions(I used the Git Bash terminal for this project)
 
