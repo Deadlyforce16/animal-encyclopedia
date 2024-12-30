@@ -26,7 +26,7 @@ npm install
 
 3. First, start the JSON Server (this runs the backend on port 3001):
 ```bash
-npm run server
+npm run json-server
 ```
 
 4. Then, in a separate terminal, run the development server:
