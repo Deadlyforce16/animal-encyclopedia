@@ -4,8 +4,8 @@ export default function HomePage() {
       <h1>Welcome to my Animal Encyclopedia!</h1>
       <div className="intro-section">
         <p>
-          Welcome to my Animal Encyclopedia, this is a internet programming project that I made using Next.js as the frontend and json-server as the backend. 
-          My platform allows you to:
+          This is a Internet Programming Web Applicaiton Project that I made in Visual Studio Code using Next.js as the frontend and JSON Server as the backend. 
+          My web application allows you to:
         </p>
         <ul>
           <li>Browse detailed information about various animal species</li>
@@ -13,7 +13,7 @@ export default function HomePage() {
           <li>Join our community of animal enthusiasts</li>
           <li>Share your knowledge,experiences and thoughts through comments</li>
         </ul>
-        <h2>How to use this platform?</h2>
+        <h2>How to use this web application?</h2>
         <ul>
           <li>
             You can also add your own animals to the database by going to the Animals page and clicking the <b>&quot;Add New Animal&quot;</b> button. 
